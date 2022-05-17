@@ -1,0 +1,15 @@
+{
+  "name": "semana1",
+  "version": "1.0.0",
+  "description": "Tareas Materia Programacion con Phyton",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "kuepa",
+    "phyton"
+  ],
+  "author": "Jose de Jesus Miranda Espino",
+  "license": "ISC"
+}
