@@ -1,3 +1,6 @@
+# Repositorio
+# https://github.com/JesusMirandaEspino/programacionPhyton
+
 # Clase general para el manejo del archivo
 class read_text:
     # Inicializan las variables

@@ -1,5 +1,7 @@
-# Clase general para el manejo del archivo
+# Repositorio
+# https://github.com/JesusMirandaEspino/programacionPhyton
 
+# Clase general para el manejo del archivo
 class read_text:
     # Inicializan las variables
     def __init__(self):
