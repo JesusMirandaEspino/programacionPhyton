@@ -1,3 +1,6 @@
+# Repositorio
+# https://github.com/JesusMirandaEspino/programacionPhyton
+
 import math
 from turtle import right
 import numpy as np
@@ -136,10 +139,10 @@ class read_text:
             color_list.append('#0AA1DD')
             values_porcent.append( str(dias) + '%' )
 
-        self.show_data(valores_x, valores_y, color_list, values_porcent)
+        self.show_data(valores_x, valores_y, color_list)
 
     # Funcion para mostrar la tabla
-    def show_data(self, x, y, color_list, values_porcent):  
+    def show_data(self, x, y, color_list):  
         bar = plt.bar( x, y, width=0.5, color=color_list )
         plt.xlabel('Dias')
         plt.ylabel('Porcentaje correos')
